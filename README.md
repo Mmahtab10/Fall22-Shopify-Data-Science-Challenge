@@ -2,7 +2,7 @@
 
 Summary of the challenge:
 
-**Question 1**: Investigating and comprehending why a calculated result was inaccurate. Alternative methods for calculating the value.
+**Question 1**: Investigating and comprehending why a calculated result was inaccurate. Alternative methods for calculating the value. ShopifyData.csv provided in the question document. 
 
 **Question 2**: Perform query operations on a dataset
 
